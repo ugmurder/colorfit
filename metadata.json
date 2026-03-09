@@ -1,0 +1,5 @@
+{
+  "name": "ColorFit - 个人色彩诊断",
+  "description": "基于12季型色卡系统的个人色彩分析工具，帮助你找到最适合你的肤色、发色和瞳色的色彩方案。",
+  "requestFramePermissions": []
+}
